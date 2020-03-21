@@ -1,0 +1,4 @@
+OS info is 
+uname_result(system='Windows', node='DESKTOP-UNBIHRS', release='10', version='10.0.17763', machine='AMD64', processor='Intel64 Family 6 Model 60 Stepping 3, GenuineIntel')
+
+Python version is 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:04:45) [MSC v.1900 32 bit (Intel)] ('32bit', 'WindowsPE')
